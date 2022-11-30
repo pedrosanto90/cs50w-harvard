@@ -3,3 +3,17 @@ body {
     margin: 0px;
     height: 100vh;
     font-family: Arial, sans-serif;
+}
+
+.search-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 50%;
+}
+
+.search-fild {
+    border-radius: 48px;
+
+}
